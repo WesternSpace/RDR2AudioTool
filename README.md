@@ -4,7 +4,8 @@
 </div>
 <br>
 <br>
- 
+
+# This tool is currently not being maintained. 
 I would like to thank [Ked](https://github.com/Ked29) for helping to contribute to the project when I was too busy working on this project.
 
 Not finished. All third party code and code that is not mine is listed in LICENSE.txt 
